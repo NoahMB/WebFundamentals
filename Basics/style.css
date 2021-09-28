@@ -1,0 +1,15 @@
+html {
+    height: 100%;
+}
+
+body {
+    background-image: linear-gradient(blue, yellow, red, green, pink, orange, violet);
+    background-repeat: no-repeat;
+    height: fill;
+}
+
+h1 {
+    font-family: 'Comic Sans MS';
+    color: white;
+}
+
